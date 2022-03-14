@@ -7,6 +7,18 @@
 - User of this webpage may enter date, city, state, country or shape to find result. The filter function will read each input and compare with the table data, then build the table result.
 User may input date to find all result in that date, or input city to see all UFO sighting in that city, or input all to found a more accurate one.
 
+- User can search by city, or state
+
+    ![](https://github.com/helen3121433/UFOs/blob/main/image/city_state.PNG)
+
+- User may search by date
+
+    ![](https://github.com/helen3121433/UFOs/blob/main/image/date.PNG)
+
+- User may search by input all filter elements
+
+    ![](https://github.com/helen3121433/UFOs/blob/main/image/all.PNG)
+
 
 
 
